@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Banking
-//
-//  Created by Anik on 30/7/20.
-//
-
 import SwiftUI
 
 struct ContentView: View {

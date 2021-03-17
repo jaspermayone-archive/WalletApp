@@ -1,10 +1,3 @@
-//
-//  CardManager.swift
-//  Banking
-//
-//  Created by Anik on 1/8/20.
-//
-
 import SwiftUI
 
 class CardManager: ObservableObject {

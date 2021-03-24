@@ -1,5 +1,5 @@
 # Wallet App
-> The goal for this project is to make something sort of like Cash App or Venmo but also add a Budgeting element and nfc/conntacless payment abilitys from whithin the app.
+> The goal for this project is to make something sort of like Cash App or Venmo but also add a Budgeting element and nfc/conntacless payment abilitys from whithin the app. Eventualy it would be cool to even have our own payment gateway and/or api.
 
 ## What needs work
 Pretty much everythinng in the app needs work. There is just about no backend, and there is UI work we need done. Feel free to reach out to me for more details.

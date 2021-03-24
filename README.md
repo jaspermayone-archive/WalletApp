@@ -1,6 +1,8 @@
 # Wallet App
+> The goal for this project is to make something sort of like Cash App or Venmo but also add a Budgeting element and nfc/conntacless payment abilitys from whithin the app.
 
-> The goal for this project is to
+## What needs work
+Pretty much everythinng in the app needs work. There is just about no backend, and there is UI work we need done. Feel free to reach out to me for more details.
 
 ## Development Installation
 
@@ -22,8 +24,6 @@ cd WalletApp
 open Banking.xcodeproj
 ```
 
-## What needs work
-
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
@@ -32,9 +32,7 @@ open Banking.xcodeproj
 4. Push to the branch (`git push origin some-great-feature`)
 5. Create a new Pull Request
 
-I can also add you directly to the project as a contributor/collaborator if you
-are going to do lots of work on the project.
+I can also add you directly to the project as a contributor/collaborator if you are going to do lots of work on the project.
 
 ## Images and Reference Material
-
 [Dribble Inspiration](https://dribbble.com/shots/13633745-Banking-app-NFC-payment)

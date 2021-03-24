@@ -1,6 +1,6 @@
-# Wallet App
 
-> The goal for this project is to
+# Wallet App
+> The goal for this project is to make something sort of like Cash App or Venmo but also add a Budgeting element and nfc/conntacless payment abilitys from whithin the app.
 
 ## Development Installation
 
@@ -9,20 +9,18 @@ MacOS
 ```sh
 mkdir WalletAppProject
 ```
-
 ```sh
 git clone git@github.com:j-dogcoder/WalletApp.git
 ```
-
 ```sh
 cd WalletApp
 ```
-
 ```sh
 open Banking.xcodeproj
 ```
-
 ## What needs work
+
+
 
 ## Contributing
 
@@ -32,9 +30,7 @@ open Banking.xcodeproj
 4. Push to the branch (`git push origin some-great-feature`)
 5. Create a new Pull Request
 
-I can also add you directly to the project as a contributor/collaborator if you
-are going to do lots of work on the project.
+I can also add you directly to the project as a contributor/collaborator if you are going to do lots of work on the project.
 
 ## Images and Reference Material
-
 [Dribble Inspiration](https://dribbble.com/shots/13633745-Banking-app-NFC-payment)

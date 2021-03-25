@@ -36,3 +36,23 @@ I can also add you directly to the project as a contributor/collaborator if you 
 
 ## Images and Reference Material
 [Dribble Inspiration](https://dribbble.com/shots/13633745-Banking-app-NFC-payment)
+
+## Community
+
+Wanna see other projects I made or am working on? Join our Discord Community
+
+[![Community](https://discordapp.com/api/guilds/823356470182936600/widget.png?style=banner3)](https://discord.gg/NrJsmzyam5)
+
+## License
+
+WalletApp is licensed under MIT - <https://opensource.org/licenses/MIT>
+
+## Author
+
+WalletApp is Developed and Maintained by **[J-dogcoder](https://github.com/j-dogcoder)**
+
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/https://dev.to/jdogcoder)
+
+---
+
+Made with :heart: and :computer: by J-dogcoder

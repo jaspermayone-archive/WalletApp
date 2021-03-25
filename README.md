@@ -41,7 +41,7 @@ I can also add you directly to the project as a contributor/collaborator if you 
 
 Wanna see other projects I made or am working on? Join our Discord Community
 
-[![Community](https://discordapp.com/api/guilds/823356470182936600/widget.png?style=banner3)](https://discord.gg/NrJsmzyam5)
+[![Community](https://discord.com/api/guilds/823356470182936600/widget.json)](https://discord.gg/NrJsmzyam5)
 
 ## License
 

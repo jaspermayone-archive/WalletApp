@@ -23,7 +23,6 @@
 		848660FF24D584230038A4F8 /* CardDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848660FE24D584230038A4F8 /* CardDetailView.swift */; };
 		8486610124D584610038A4F8 /* ExpenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8486610024D584610038A4F8 /* ExpenceView.swift */; };
 		8486610324D584810038A4F8 /* ExpenceGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8486610224D584810038A4F8 /* ExpenceGraphView.swift */; };
-		A492E0B0260E15800030A709 /* Stella.swift in Sources */ = {isa = PBXBuildFile; fileRef = A492E0AF260E15800030A709 /* Stella.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,7 +44,6 @@
 		848660FE24D584230038A4F8 /* CardDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDetailView.swift; sourceTree = "<group>"; };
 		8486610024D584610038A4F8 /* ExpenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenceView.swift; sourceTree = "<group>"; };
 		8486610224D584810038A4F8 /* ExpenceGraphView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenceGraphView.swift; sourceTree = "<group>"; };
-		A492E0AF260E15800030A709 /* Stella.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stella.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				8413B74F24D2999800B8FA6B /* BankingApp.swift */,
-				A492E0AF260E15800030A709 /* Stella.swift */,
 				8413B75124D2999800B8FA6B /* ContentView.swift */,
 				8486610424D584E60038A4F8 /* CardDetail */,
 				848660F824D5582F0038A4F8 /* TransactionListView.swift */,
@@ -186,7 +183,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8486610324D584810038A4F8 /* ExpenceGraphView.swift in Sources */,
-				A492E0B0260E15800030A709 /* Stella.swift in Sources */,
 				8486610124D584610038A4F8 /* ExpenceView.swift in Sources */,
 				848660F524D543780038A4F8 /* MenuHeaderView.swift in Sources */,
 				848660F324D53FF60038A4F8 /* CardView.swift in Sources */,
